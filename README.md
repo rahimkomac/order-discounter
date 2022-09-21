@@ -38,7 +38,7 @@ composer install
 
 6. Call URL
 ```bash
-http://laravel.test/ or http://localhost
+http://ideasoft.test/ or http://localhost
 ```
 
 Postman Collection:
