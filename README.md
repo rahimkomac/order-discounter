@@ -44,6 +44,4 @@ http://laravel.test/ or http://localhost
 Postman Collection:
 
 Repodaki order.postman_collection.json dosyasını import ederek test edebilirsiniz.
-```bash
-order.postman_collection.json
-```
+- [order.postman_collection.json](./order.postman_collection.json)
