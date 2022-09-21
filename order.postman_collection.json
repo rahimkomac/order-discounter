@@ -48,10 +48,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/register",
+					"raw": "http://ideasoft.test/api/register",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -113,10 +113,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/login",
+					"raw": "http://ideasoft.test/api/login",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -165,10 +165,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/order",
+					"raw": "http://ideasoft.test/api/order",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -217,10 +217,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/order/1",
+					"raw": "http://ideasoft.test/api/order/1",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -273,10 +273,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/order/3",
+					"raw": "http://ideasoft.test/api/order/3",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -329,10 +329,10 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/orders/",
+					"raw": "http://ideasoft.test/api/orders/",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
@@ -362,7 +362,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "1|mmwlF4fdhDu2cmk1bnoJ6K6IcXItxUE92ImHQmZM",
+							"value": "1|KfP1gWF8pk93BuxQJuaxhXYx5v92x0DxBBu6Lis0",
 							"type": "string"
 						}
 					]
@@ -385,16 +385,16 @@
 					}
 				},
 				"url": {
-					"raw": "http://laravel.test/api/order/5/discount",
+					"raw": "http://ideasoft.test/api/order/1/discount",
 					"protocol": "http",
 					"host": [
-						"laravel",
+						"ideasoft",
 						"test"
 					],
 					"path": [
 						"api",
 						"order",
-						"5",
+						"1",
 						"discount"
 					],
 					"query": [
